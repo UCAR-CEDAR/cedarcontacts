@@ -1,2 +1,2 @@
 # cedarcontacts
-CEDAR Catalog instrument / observatory contact list
+CEDAR wiki extension for CEDAR Catalog instrument / observatory contact list
